@@ -1,6 +1,7 @@
-#linux terminal cgit clone 
+#linux terminal command
 
-https://github.com/dappersinovation/blac_khat_campus_team_government_public_incident_report_system.git
+
+git clone https://github.com/dappersinovation/blac_khat_campus_team_government_public_incident_report_system.git
 
 cd blac_khat_campus_team_government_public_incident_report_system
 
@@ -15,6 +16,7 @@ python dataset.py
 streamlit run app.pyommand
 
 #window powershell command
+
 
 git clone https://github.com/dappersinovation/blac_khat_campus_team_government_public_incident_report_system.git
 
